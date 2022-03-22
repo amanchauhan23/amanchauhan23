@@ -8,7 +8,7 @@
 - 📫 How to reach me 
 -   Send me an email amankch23@gmail.com
 
-## snake eating contribution graph
+## Snake🐍 eating my contribution graph
 ![snake gif](https://github.com/amanchauhan23/amanchauhan23/blob/output/github-contribution-grid-snake.gif)
 
 <!---
