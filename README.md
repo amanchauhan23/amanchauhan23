@@ -9,7 +9,7 @@
 -   Send me an email amankch23@gmail.com
 
 ## Snake🐍 eating my contribution graph
-![snake gif](https://github.com/amanchauhan23/amanchauhan23/blob/output/github-contribution-grid-snake.gif)
+
 
 <!---
 amanchauhan23/amanchauhan23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
